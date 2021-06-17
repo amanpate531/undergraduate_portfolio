@@ -1,2 +1,2 @@
 # undergraduate_portfolio
-Snapshot of my undergraduate programming experiences
+Preview of my undergraduate programming experiences. Organized by year, then by courses and programming languages.
