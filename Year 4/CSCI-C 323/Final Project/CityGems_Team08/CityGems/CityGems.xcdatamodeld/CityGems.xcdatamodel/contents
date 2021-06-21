@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D91" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AddedFact" representedClassName="AddedFact" syncable="YES" codeGenerationType="class">
+        <attribute name="cityAdded" optional="YES" attributeType="String"/>
+        <attribute name="factAdded" optional="YES" attributeType="String"/>
+        <attribute name="stateAdded" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="PreviousNotification" representedClassName="PreviousNotification" syncable="YES" codeGenerationType="class">
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <attribute name="fact" optional="YES" attributeType="String"/>
+        <attribute name="state" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="TableFact" representedClassName="TableFact" syncable="YES" codeGenerationType="class">
+        <attribute name="cityTable" optional="YES" attributeType="String"/>
+        <attribute name="factTable" optional="YES" attributeType="String"/>
+        <attribute name="stateTable" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="AddedFact" positionX="-1026" positionY="-639" width="128" height="88"/>
+        <element name="PreviousNotification" positionX="-1149.450134277344" positionY="-758.1195373535156" width="128" height="88"/>
+        <element name="TableFact" positionX="-1230.381652832031" positionY="-648.5707702636719" width="128" height="88"/>
+    </elements>
+</model>
