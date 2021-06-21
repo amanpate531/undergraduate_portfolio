@@ -1,0 +1,3 @@
+A310 Labs
+
+In labs, we would take the simple implementation discussed in class and develop it into a more complex version. For example, we implemented Queues and LinkedLists in class using built-in Python Lists, then implemented a HashSet and Queue using our LinkedList implementation.  
