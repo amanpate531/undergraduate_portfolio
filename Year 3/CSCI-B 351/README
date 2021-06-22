@@ -2,4 +2,4 @@ CSCI-B 351: Introduction to Artificial Intelligence
 
 In this course we learned about the fundamentals of artificial intelligence as well as some practical applications. Topics discussed include propositional and first-order logic, search algorithms, game theory, decision trees, neural networks, and more.
 
-The course contained a variety of programming assignments covering the basics of Python to machine learning packages such as scikit-learn, TensorFlow, and NumPy. Unfortunately, my professor explicitly stated that course material cannot be posted outside of the class, including on GitHub. 
+The course contained a variety of programming assignments covering material from the basics of Python to machine learning packages such as scikit-learn, TensorFlow, and NumPy. Unfortunately, my professor explicitly stated that course material cannot be posted outside of the class, including on GitHub. 
