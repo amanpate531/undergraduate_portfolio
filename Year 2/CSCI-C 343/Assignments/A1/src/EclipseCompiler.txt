@@ -1,0 +1,26 @@
+16 Jan 2019 2:14:38 GMT: Log 'EclipseCompiler.txt' opened: 16 Jan 2019 2:14:38 GMT with name C:\Users\aman_\Desktop\A1\src\EclipseCompiler.txt
+16 Jan 2019 2:15:58 GMT: diagnostics = javax.tools.DiagnosticCollector@122790d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dfeadc
+fileObjects = [C:\Users\aman_\Desktop\A1\src\List.java, C:\Users\aman_\Desktop\A1\src\ListTest.java]
+16 Jan 2019 2:15:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13b8a6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aman_\Desktop\A1\src;C:\Users\aman_\Downloads\drjava-beta-20160913-225446.exe]
+16 Jan 2019 2:15:58 GMT: Compiler call returned
+16 Jan 2019 2:16:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1584a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f706f6
+fileObjects = [C:\Users\aman_\Desktop\A1\src\ListTest.java, C:\Users\aman_\Desktop\A1\src\List.java]
+16 Jan 2019 2:16:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@26d885' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aman_\Desktop\A1\src;C:\Users\aman_\Downloads\drjava-beta-20160913-225446.exe]
+16 Jan 2019 2:16:47 GMT: Compiler call returned
+16 Jan 2019 2:16:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c83c7
+16 Jan 2019 2:16:47 GMT:  Kind = ERROR
+16 Jan 2019 2:16:47 GMT: Name = C:\Users\aman_\Desktop\A1\src\List.java LineNo = 52 ColNo = 86 Msg = 'triplicate cannot be resolved or is not a field'
+16 Jan 2019 2:16:54 GMT: diagnostics = javax.tools.DiagnosticCollector@1134e08
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@161803e
+fileObjects = [C:\Users\aman_\Desktop\A1\src\ListTest.java, C:\Users\aman_\Desktop\A1\src\List.java]
+16 Jan 2019 2:16:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1aa95fc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aman_\Desktop\A1\src;C:\Users\aman_\Downloads\drjava-beta-20160913-225446.exe]
+16 Jan 2019 2:16:54 GMT: Compiler call returned
+16 Jan 2019 2:17:03 GMT: diagnostics = javax.tools.DiagnosticCollector@19fc7dc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@802d07
+fileObjects = [C:\Users\aman_\Desktop\A1\src\ListTest.java, C:\Users\aman_\Desktop\A1\src\List.java]
+16 Jan 2019 2:17:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@49b020' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aman_\Desktop\A1\src;C:\Users\aman_\Downloads\drjava-beta-20160913-225446.exe]
+16 Jan 2019 2:17:03 GMT: Compiler call returned
+24 Jan 2019 0:24:56 GMT: Log 'EclipseCompiler.txt' opened: 24 Jan 2019 0:24:56 GMT with name C:\Users\aman_\Desktop\A1\src\EclipseCompiler.txt
+24 Jan 2019 0:24:57 GMT: Log 'EclipseCompiler.txt' opened: 24 Jan 2019 0:24:57 GMT with name C:\Users\aman_\Desktop\A1\src\EclipseCompiler.txt
