@@ -1,0 +1,17 @@
+// To begin, the user is presented with a menu. They are prompted to select
+// First, Business, or Economy
+
+// After they make their selection, a seat is randomly chosen for them.
+
+// If it is an Aisle or Window seat, the user is asked if it is acceptable
+
+// Depending on their response, the seat is booked or a random seat is
+// generated
+
+// Once the seat is booked, the user is prompted to select a secondary option
+// Seating chart, passenger manifest, or boarding pass
+
+// Various conditions are added that permit the concatenation of integers and
+// strings for seat numbers.
+
+// The loop continues until all 72 passengers are accounted for.

@@ -1,0 +1,3 @@
+First, the user is presented with a menu and asked to input a paycode and an integer representing the number of employees of that type.
+Then, the program will ask the user two things about each employee: the number of hours worked and whether they are international students.
+A switch statement will then be used to determine the hourly wage for each employee, and their statistics will be added to their respective totals. 
