@@ -1,0 +1,6 @@
+Side Projects
+
+This directory will include all of my small projects, including my chore generator and iron condor generator.
+
+Chore generator: Generates a random chore for each person in my family and keeps track of how many times each person did each job.
+Iron condor generator: Generates an iron condor (options strategy) for a particular stock for the upcoming Friday using current options prices, greeks, and probability of profit.
